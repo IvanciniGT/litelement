@@ -1,0 +1,21 @@
+{
+  "name": "Todos application",
+  "short_name": "Todos",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111111",
+  "description": "App para gestionar todos",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "./img/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
